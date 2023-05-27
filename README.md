@@ -1,2 +1,2 @@
 # python
-## Constructed gui-based database design application using Python library.
+## Constructed gui-based database design application using Python library and mysql for databases.
